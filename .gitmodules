@@ -374,6 +374,9 @@
 [submodule "plugins/pixel-buddy"]
 	path = plugins/pixel-buddy
 	url = https://github.com/Phill544/Pixel-Buddy
+[submodule "plugins/varta"]
+	path = plugins/varta
+	url = https://github.com/HARd/varta-decky.git
 [submodule "plugins/DeckyClocker"]
 	path = plugins/DeckyClocker
 	url = https://github.com/Jaccident/DeckyClocker.git
@@ -389,3 +392,6 @@
 [submodule "plugins/decky-desktop-apps"]
         path = plugins/decky-desktop-apps
         url = https://github.com/allmazz/decky-desktop-apps.git
+[submodule "plugins/decky-volume-mixer"]
+        path = plugins/decky-volume-mixer
+        url = https://github.com/allmazz/decky-volume-mixer.git
